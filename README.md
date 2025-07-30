@@ -1,4 +1,4 @@
-# API Plateforme de Campagnes - Caleb
+# API de Levée de fond
 
 ## Description
 API REST pour une plateforme de gestion de campagnes avec système d'authentification complet pour utilisateurs et administrateurs.
@@ -48,7 +48,7 @@ API REST pour une plateforme de gestion de campagnes avec système d'authentific
 1. **Cloner le projet et installer les dépendances**
 ```bash
 git clone <repo-url>
-cd api-caleb
+cd <le dosier ahh>
 pnpm install
 ```
 
